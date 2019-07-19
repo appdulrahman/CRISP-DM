@@ -1,2 +1,2 @@
 # CRISP-DM
-CRISP-DM on heart disease data
+This project is part of my DSND on Udacity; it follows the CRISP-DM on heart disease data provided by the UCI and found on Kaggel https://www.kaggle.com/ronitf/heart-disease-uci
